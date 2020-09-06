@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="1600" height="600" src="images/github_profile.png">
+</p>
+
+
+
 ### Hi there 👋
 
 <!--
