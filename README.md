@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on machine/deep learning using python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning tfx
 - 👯 I’m looking to collaborate on machine/deep learning
 - 🤔 I’m looking for help with machine/deep learning
 - 💬 Ask me about machine learning/deep learning
